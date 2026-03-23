@@ -85,6 +85,11 @@ inpaint_prod_stack/v3/
     └── ci-cd.yml             # CI/CD工作流配置
 ```
 
+## 🚀 云端应用访问
+
+可以直接访问已部署的云端应用：
+- **云端应用地址**：[https://inpainting-mvp.streamlit.app/](https://inpainting-mvp.streamlit.app/)
+
 ## 🚀 部署方式
 
 ### 本地部署（单文件模式）
